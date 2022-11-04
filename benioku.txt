@@ -1,3 +1,0 @@
-Liste istenilen formatta ekrana yazdırılıyor, ayrıca okuyan öğretmene kolaylık olması açısından
-yazdırılan ekranın hemen ardından listenin içerisindeki düğümlerin düğüm adresi,
-içerisindeki veri, önceki ve sonraki değerleri tek tek yazdırılıyor
